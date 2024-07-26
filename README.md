@@ -1,10 +1,5 @@
 # GoGo-Server
 
-## Overview
-
-GoGo-Server is A Webserver written in Go that runs the KataGo Go AI Agent and exposes access to it via API endpoints.
-The server allows users to initialize the game, make moves, and get AI-generated moves via simple HTTP API endpoints.
-
 ## Features
 
 - **Check Server Readiness**: Verify if the server is ready to process requests.
