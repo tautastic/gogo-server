@@ -83,3 +83,8 @@ Request an AI-generated move.
 - **main.go**: Entry point of the application. Loads environment variables, starts the KataGo process, and initializes the API server.
 - **api/api.go**: Contains the HTTP handlers for the API endpoints.
 - **cmd/cmd.go**: Manages the interaction with the KataGo process, including reading and writing to its stdin and stdout.
+
+## Purpose
+
+This project was developed as part of an effort to automate the IPvGo minigame in the [Bitburner](https://github.com/bitburner-official/bitburner-src) video game.
+See the `ipvgo.js` file for one possible usage of the gogo-server in Bitburner.
